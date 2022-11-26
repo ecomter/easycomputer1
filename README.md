@@ -11,11 +11,11 @@
 
 ## 我的性格
 
-在生活中近乎是个社恐
+在生活中近乎是个社恐  
 16项人格是INFP哦
 
 ## 联系我
 
-[个人博客](https:/eoud.eu.org)
-QQ：639452380
-email：t1472580369@outlook.com
+🌐我的[博客](https:/eoud.eu.org)  
+🐧QQ：639452380  
+✉️email：t1472580369@outlook.com  
