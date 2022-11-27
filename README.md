@@ -16,6 +16,6 @@
 
 ## 联系我
 
-🌐我的[博客](https:/eoud.eu.org)  
-🐧QQ：639452380  
-✉️email：t1472580369@outlook.com  
+🌐 我的[博客](https:/eoud.eu.org)  
+🐧 QQ：639452380  
+✉️ Email：t1472580369@outlook.com  
