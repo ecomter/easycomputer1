@@ -1,5 +1,5 @@
 ## 哈喽！
-我是ecomter，一个自由的电脑爱好者，目前还没有就业呀😁
+我是ecomter，一个自由的电脑爱好者😁
 
 [![我的Github](https://github-readme-stats.vercel.app/api?username=easycomputer1)]()
 
