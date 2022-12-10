@@ -4,7 +4,6 @@
 
 [![My Github](https://github-readme-stats.vercel.app/api?username=easycomputer1)]() 
 ![Metrics](https://metrics.lecoq.io/easycomputer1?template=classic&config.timezone=Etc%2FGMT-8)
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=easycomputer1" />
 
 ## I like...
 - Research technology ⚗️
